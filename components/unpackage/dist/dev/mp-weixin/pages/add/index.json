@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "新建",
+  "usingComponents": {
+    "fui-input": "/components/firstui/fui-input/fui-input",
+    "fui-textarea": "/components/firstui/fui-textarea/fui-textarea",
+    "fui-button": "/components/firstui/fui-button/fui-button",
+    "fui-dialog": "/components/firstui/fui-dialog/fui-dialog",
+    "fui-toast": "/components/firstui/fui-toast/fui-toast",
+    "fui-icon": "/components/firstui/fui-icon/fui-icon"
+  }
+}

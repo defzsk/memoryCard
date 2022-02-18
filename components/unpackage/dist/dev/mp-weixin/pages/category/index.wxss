@@ -1,0 +1,44 @@
+
+.category-container.data-v-2f754cba {
+	background: #002b36;
+	height: 100vh;
+	overflow-y: auto;
+}
+.category-container .head.data-v-2f754cba {
+	text-align: center;
+	font-size: 40rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	background: #fff;
+	margin-bottom: 20rpx;
+}
+.card-container.data-v-2f754cba {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.item.data-v-2f754cba {
+	width: 340rpx;
+	height: 340rpx;
+	margin: 10rpx 10rpx;
+	border-radius: 15rpx;
+	box-sizing: border-box;
+	background: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+		color: #D1D5DB;
+		font-size: 50rpx;
+}
+.add.data-v-2f754cba {
+	font-size: 45rpx;
+	color: #002b36;
+}
+.pigeonhole.data-v-2f754cba {
+	border-bottom: 1px solid #DCDCDC;
+}
+.cancel.data-v-2f754cba {
+	margin-top: 15rpx;
+}
+

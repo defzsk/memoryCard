@@ -1,0 +1,25 @@
+
+.card-box.data-v-195afbb5 {
+	background: #022b36;
+	/* height: 100vh; */
+}
+.card.data-v-195afbb5 {
+	height: 300rpx;
+	background: #fff;
+	border-radius: 20rpx;
+	margin:0 15rpx 20rpx 15rpx;
+	color: #000;
+	padding: 20rpx;
+}
+.title.data-v-195afbb5 {
+	font-size: 50rpx;
+	text-align: center;
+}
+.content.data-v-195afbb5 {
+	/* background: #007AFF; */
+	height: 220rpx;
+	/* white-space:nowrap; */
+	overflow:hidden;
+	/* text-overflow:ellipsis; */
+}
+

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "fui-bottom-popup": "/components/firstui/fui-bottom-popup/fui-bottom-popup",
+    "fui-button": "/components/firstui/fui-button/fui-button"
+  }
+}

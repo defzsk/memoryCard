@@ -1,0 +1,11 @@
+
+.cardContent.data-v-2e2c5d3a {
+	background: #E5E7EB;
+	color: #000;
+	height: 100vh;
+	font-size: 40rpx;
+}
+.segmented-control__text.data-v-2e2c5d3a {
+	font-size: 35rpx;
+}
+

@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/index",
+    "pages/discover/index",
+    "pages/add/index",
+    "pages/mine/index",
+    "pages/cardBox/index",
+    "pages/cardContent/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "背个x",
+    "navigationBarBackgroundColor": "#002b36",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#002b36",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/shouye.png",
+        "selectedIconPath": "static/img/s-shouye.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/category/index",
+        "iconPath": "static/img/s-fenlei.png",
+        "selectedIconPath": "static/img/s-fenlei.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/discover/index",
+        "iconPath": "static/img/faxian.png",
+        "selectedIconPath": "static/img/s-faxian.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/add/index",
+        "iconPath": "static/img/xinjian.png",
+        "selectedIconPath": "static/img/s-xinjian.png",
+        "text": "新建"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/img/wode.png",
+        "selectedIconPath": "static/img/s-wode.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

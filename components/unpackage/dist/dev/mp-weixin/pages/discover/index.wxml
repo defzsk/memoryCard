@@ -1,0 +1,1 @@
+<view class="discover-container data-v-024a9de5"><button data-event-opts="{{[['tap',[['open2',['$event']]]]]}}" bindtap="__e" class="data-v-024a9de5">打开弹窗</button></view>
